@@ -1,9 +1,9 @@
 ### Hi there👋
 
-> 😄 Hi! My name is Nam.
-> 📚 I have been studying at the University of Information Technology (VNUHCM) since 2020. 
+😄 Hi! My name is Nam.
+📚 I have been studying at the University of Information Technology (VNUHCM) since 2020. 
 	 With a specialty in Computer Science which mainly about Machine Learning and Artificial Intelligence stuffs. 
-> 🌼 My blog: [Hoai-Nam's BLOG](https://blognamnh.wordpress.com/)
+🌼 My blog: [Hoai-Nam's BLOG](https://blognamnh.wordpress.com/)
 
 
 ## Conect with me:
