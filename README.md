@@ -6,8 +6,6 @@
 
 With a specialty in Computer Science which mainly about Machine Learning and Artificial Intelligence stuffs. 
 	 
-🌼 My blog: [Hoai-Nam's BLOG](https://blognamnh.wordpress.com/)
-
 
 ### Connect with me:
 
