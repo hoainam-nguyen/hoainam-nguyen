@@ -1,9 +1,10 @@
 ### Hi there👋
 
 😄 Hi! My name is **Nam.**
-
-I have been studying at the University of Information Technology (VNUHCM). I am interested in researching and solving problems related to artificial intelligence. 
-	 
+```
+I have been studying at the University of Information Technology (VNUHCM). 
+I am interested in researching and solving problems related to artificial intelligence. 
+```	 
 
 ### Technologies:
 <img align="left" alt="Python" width="26px" 
